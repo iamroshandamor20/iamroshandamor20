@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @iamroshandamor20
+- 👋 Hi, I’m Roshan Damor
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning PYTHON-DSA
 - 💞️ I’m looking to collaborate on OPEN SOURCE
-- 📫 How to reach me : iamroshandamor@gmail.com
-- 😄 Pronouns:Roshan Damor
-- ⚡ Fun fact: I dont know myself.
+- 📫 To reach out me : iamroshandamor@gmail.com
 
 <!---
 iamroshandamor20/iamroshandamor20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

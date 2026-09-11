@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./Savio Header.png" width="100%" alt="Roshan Damor Banner"/>
+  <img src="./Github BG.png" width="100%" alt="Roshan Damor Banner"/>
 </p>
 
 <p align="center">

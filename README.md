@@ -36,7 +36,7 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=5" width="85%">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&perline=5" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -46,7 +46,7 @@
 
 ### 🤖 AI & Data
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" width="85%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,sklearn,huggingface" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -56,7 +56,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&perline=5" width="85%">
+<img src="https://skillicons.dev/icons?i=django,nextjs,fastapi,nodejs&perline=5" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -70,7 +70,7 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&perline=5" width="85%">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=5" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -80,7 +80,7 @@
 
 ### 🗄️ Databases
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" width="85%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,sqlite" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -90,7 +90,7 @@
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes&perline=5" width="85%">
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp" width="85%">
 
 <img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
@@ -120,23 +120,13 @@ Production-ready platform used by schools and organizations to manage and genera
 
 ### Engineering Highlights
 
-- CorelDRAW COM Automation
 - Background Job Processing (Celery + Redis)
-- AI-assisted Image Processing
 - Import / Export Engine
 - Role-Based Access Control (RBAC)
 - Audit Logging
 - REST API Architecture
 - Cross-platform (Web, Desktop & Mobile)
 - Secure Authentication & Authorization
-
-### Tech Stack
-
-`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Celery` • `Docker` • `Nginx` • `Electron` • `React Native`
-
-**Platforms**
-
-🌐 Web • 🖥 Desktop • 📱 Android • 🍎 iOS
 
 **Links**
 
@@ -164,15 +154,6 @@ Modern school management platform bringing academics, administration, communicat
 - Cross-platform Ecosystem
 - REST API Architecture
 - Role-Based Access Control
-- Real-time Data Synchronization
-
-### Tech Stack
-
-`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Electron` • `React Native`
-
-**Platforms**
-
-🌐 Web • 🖥 Desktop • 📱 Android • 🍎 iOS
 
 **Links**
 
@@ -203,16 +184,6 @@ AI-powered productivity platform designed to streamline career growth through re
 - Career Planning Engine
 - Interview Preparation
 - AI Workflow Automation
-- REST API Architecture
-- Cross-platform Mobile Support
-
-### Tech Stack
-
-`Django REST Framework` • `React` • `PostgreSQL` • `React Native` • `AI APIs`
-
-**Platforms**
-
-🌐 Web • 📱 Android • 🍎 iOS
 
 **Links**
 
@@ -235,20 +206,10 @@ Travel management platform developed for a travel agency specializing in senior 
 
 - Booking Management System
 - Customer & Tour Management
-- Responsive Dashboard
-- Secure Authentication
 - REST API Architecture
 - Business Workflow Automation
 - Admin Management Portal
 - Mobile-friendly Experience
-
-### Tech Stack
-
-`Django REST Framework` • `React` • `PostgreSQL`
-
-**Platforms**
-
-🌐 Web
 
 **Links**
 
@@ -260,21 +221,6 @@ Travel management platform developed for a travel agency specializing in senior 
 </tr>
 
 </table>
-
----
-
-# 📈 Open Source Activity
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=logicbyroshan&theme=react-dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-Building production software, AI-powered applications, and developer tools while continuously learning through real-world engineering.
-</p>
 
 ---
 
@@ -311,20 +257,6 @@ Building production software, AI-powered applications, and developer tools while
 </a>
 
 </p>
-
----
-
-# 🚀 Engineering Principles
-
-| Principle | Philosophy |
-|-----------|------------|
-| 🏗 **Build for Scale** | Design systems that remain reliable, maintainable, and efficient as they grow. |
-| 🤖 **AI First** | Apply AI where it creates meaningful value rather than adding unnecessary complexity. |
-| ⚡ **Performance Matters** | Prioritize responsiveness, scalability, and efficient resource utilization. |
-| 🧩 **Clean Architecture** | Build modular, testable, and maintainable software following sound engineering principles. |
-| 🔒 **Security by Design** | Build secure applications with authentication, authorization, and data protection in mind. |
-| 📖 **Continuous Learning** | Continuously improve through real-world engineering, experimentation, and feedback. |
-| 🤝 **Give Back** | Share knowledge, contribute to open source, and support the developer community. |
 
 ---
 

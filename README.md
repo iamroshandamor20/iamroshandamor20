@@ -252,10 +252,6 @@ Travel management platform developed for a travel agency specializing in senior 
 <img src="https://img.shields.io/badge/YouTube-Logic%20By%20Roshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="mailto:contact@logicbyroshan.in">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
 ---
